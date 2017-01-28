@@ -1,0 +1,44 @@
+{
+  "stickers" : [
+    {
+      "filename" : "add_feeling_btn@2x.sticker"
+    },
+    {
+      "filename" : "flash_button@2x.sticker"
+    },
+    {
+      "filename" : "dollar@2x.sticker"
+    },
+    {
+      "filename" : "plane@2x.sticker"
+    },
+    {
+      "filename" : "groceries@2x.sticker"
+    },
+    {
+      "filename" : "star_icon_filled@2x.sticker"
+    },
+    {
+      "filename" : "resturant_icon@2x.sticker"
+    },
+    {
+      "filename" : "onestar_filled@2x.sticker"
+    },
+    {
+      "filename" : "songs_icon@2x.sticker"
+    },
+    {
+      "filename" : "bar_icon@2x.sticker"
+    },
+    {
+      "filename" : "ItsHandled.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}
